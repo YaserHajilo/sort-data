@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="joso_data:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="joso_data.jar">
+      <element id="module-output" name="joso_data" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
